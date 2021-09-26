@@ -15,4 +15,4 @@ This year, I hope to
 - Practice good programming etiquette
 - Start early, start often
 And also
-- [x] Finish this lab.
+- [x] **Finish this lab.**

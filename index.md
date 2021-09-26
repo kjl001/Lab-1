@@ -7,3 +7,5 @@ I have played many different video games, but there are a few that I still keep 
 2. [Apex Legends](https://www.ea.com/games/apex-legends)
 3. [Minecraft](https://www.minecraft.net/en-us)
 I have only recently picked up Apex Legends, but it is becoming a game that I enjoy to play along with my friends.
+## What I Like to Program
+What I have been interested in during my experience with programming was creating games. I have always enjoyed playing videog games and I have recently begun to appreciate the process behind the creation of games. During my high school years, I started to create my own miniature video games using GameMaker Studio, which gives an easy way to create games. 
